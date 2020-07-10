@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascipt, Node.JS and basically everything... do we every stop learning?
 - ⚡ Fun fact: I've had more broken bones than birthdays
 
-
+![Geekpulp's github stats](https://github-readme-stats.vercel.app/api?username=geekpulp&show_icons=true)
 
 <!--
 **geekpulp/geekpulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,7 @@ Here are some ideas to get you started
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+
 
 -->
