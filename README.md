@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a private repo... which is a bummer because I can't really share what I'm up to.
-- 🌱 I’m currently learning Javascipt, Node.JS and basically everything... do we every stop learning?
+- 🌱 I’m currently working in Javascipt, Node.JS and basically everything... do we every stop learning new things?
 - ⚡ Fun fact: I've had more broken bones than birthdays
 
 ![Geekpulp's github stats](https://github-readme-stats.vercel.app/api?username=geekpulp&show_icons=true)
