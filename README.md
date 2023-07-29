@@ -4,7 +4,6 @@
 - 🌱 I’m currently working in Javascipt, Node.JS and basically everything... do we every stop learning new things?
 - ⚡ Fun fact: I've had more broken bones than birthdays
 
-![Geekpulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekpulp&show_icons=true&theme=onedark&count_private=true)
 [![Geekpulp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekpulp&theme=onedark&count_private=true&layout=compact)](https://github.com/geekpulp/github-readme-stats)
 
 
